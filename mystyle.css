@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Geist+Pixel&family=Germania+One&family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Original+Surfer&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Recursive:wght@300..1000&display=swap');
+
+.myfont_me{
+    font-family: "Modern Antiqua", serif;
+}
+
+.myhover_me:hover{
+    background-color: green;
+    opacity: 0.8;
+    color: white;
+}
